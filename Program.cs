@@ -15,7 +15,9 @@ namespace gitt
             Console.WriteLine("Введите число и нажмите Enter)");
             n1 = Convert.ToInt32(Console.ReadLine());
 
-
+            // Ввод второго числа
+            Console.WriteLine("Введите еще одно число и нажмите Enter)");
+            n2 = Convert.ToInt32(Console.ReadLine());
 
             // Выбор действия
             Console.WriteLine("Выбирите действие:");
