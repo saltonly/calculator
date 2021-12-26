@@ -11,7 +11,9 @@ namespace gitt
             Console.WriteLine("  ^ Казалось бы калькулятор ^  \r");
             Console.WriteLine("_______________________________\n");
 
-
+            // Ввод первого числа
+            Console.WriteLine("Введите число и нажмите Enter)");
+            n1 = Convert.ToInt32(Console.ReadLine());
 
 
 
