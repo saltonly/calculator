@@ -39,8 +39,9 @@ namespace gitt
                 case "m":
                     Console.WriteLine($"Вот такие пироги): {n1} * {n2} = " + (n1 * n2));
                     break;
-
-
+                case "d":
+                    Console.WriteLine($"Вот такие пироги): {n1} / {n2} = " + (n1 / n2));
+                    break;
             }
 
             // Закрытие проги
