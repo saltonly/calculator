@@ -13,7 +13,13 @@ namespace gitt
 
 
 
-
+            // Выбор действия
+            Console.WriteLine("Выбирите действие:");
+            Console.WriteLine("\ta - Сложение");
+            Console.WriteLine("\ts - Вычитание");
+            Console.WriteLine("\tm - Умножение");
+            Console.WriteLine("\td - Деление");
+            Console.Write("Что же вы выбирите?) ");
 
 
 
