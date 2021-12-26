@@ -13,6 +13,8 @@ namespace gitt
 
 
 
+
+
             // Выбор действия
             Console.WriteLine("Выбирите действие:");
             Console.WriteLine("\ta - Сложение");
@@ -21,7 +23,12 @@ namespace gitt
             Console.WriteLine("\td - Деление");
             Console.Write("Что же вы выбирите?) ");
 
+            // Математические операции
+            switch (Console.ReadLine())
+            {
 
+
+            }
 
             // Закрытие проги
             Console.Write("Нажмите на любую кнопочку для закрытия ^ Казалось бы калькулятора ^) ");
