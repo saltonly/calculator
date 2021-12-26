@@ -33,6 +33,9 @@ namespace gitt
                 case "a":
                     Console.WriteLine($"Вот такие пироги): {n1} + {n2} = " + (n1 + n2));
                     break;
+                case "s":
+                    Console.WriteLine($"Вот такие пироги): {n1} - {n2} = " + (n1 - n2));
+                    break;
 
             }
 
